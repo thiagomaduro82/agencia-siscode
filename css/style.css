@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100vh;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#code {
+    color: #D2691E;
+    font-size: 30px;
+}
+
+#icon {
+    color: blue;
+    font-size: 30px;
+}
+
+.carousel img {
+    max-height: 400px;
+    margin: 0 auto;
+}
+
+.h5-slide {
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+    border: black;
+}
+
+#paragrafo {
+    text-indent: 2rem;
+}
+
+#img-quadro {
+    width: 100%;
+    height: 100%;
+    border: black 2px;
+}
+
+.card {
+    height: 100%;
+}
+
